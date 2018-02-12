@@ -19,3 +19,7 @@ The backtest class requires exchange connector which can be a real exchange thro
 To get dataset you need to specify date range in exchange emulator constructor. If there is first time with that date range dataset will be downloaded.
 
 ![downloading dataset](media/downloading.png)
+
+# Donation
+If you want to support us you can make donations in
+- BTC [1LFqtqoK8ooVkP4Rt83sjuw4rZZHekVT5L](https://blockchain.info/en/address/1LFqtqoK8ooVkP4Rt83sjuw4rZZHekVT5L)
