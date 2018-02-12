@@ -10,6 +10,8 @@ class Trader(object):
 
     def step(self, ticker, orderbook):
 
+        self.ticker = ticker
+
         self.ask_volumes = np.array(orderbook['asks'])[:, 1]
         self.bid_volumes = np.array(orderbook['bids'])[:, 1]
 
