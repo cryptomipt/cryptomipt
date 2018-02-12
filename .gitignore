@@ -5,3 +5,6 @@
 examples/.ipynb_checkpoints/backtest_example-checkpoint.ipynb
 *.json
 *.tlog
+build/*
+cryptomipt.egg-info/*
+dist/*
