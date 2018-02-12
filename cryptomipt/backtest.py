@@ -5,6 +5,7 @@ import time
 import asyncio
 import logging
 import numpy as np
+from .traders import Trader
 from elasticsearch import Elasticsearch
 from datetime import datetime
 from concurrent.futures import CancelledError

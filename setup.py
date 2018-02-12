@@ -3,7 +3,7 @@ from os.path import join, dirname
 
 setup(
     name='cryptomipt',
-    version='0.1.1',
+    version='0.1.2',
     packages=['cryptomipt'],
     long_description=open(join(dirname(__file__), 'README.md')).read(),
 )
