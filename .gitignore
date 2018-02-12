@@ -1,0 +1,7 @@
+
+*.iml
+*.xml
+*.pyc
+examples/.ipynb_checkpoints/backtest_example-checkpoint.ipynb
+*.json
+*.tlog
