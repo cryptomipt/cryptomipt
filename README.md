@@ -7,6 +7,7 @@ Examples are available in examples folder.
 
 # Installation
 
+Get the latest release and run:
 ```python
 python setup.py install
 ```
