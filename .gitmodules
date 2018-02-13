@@ -1,0 +1,3 @@
+[submodule "cryptomipt/statstools"]
+	path = cryptomipt/statstools
+	url = https://github.com/cryptomipt/statstools
