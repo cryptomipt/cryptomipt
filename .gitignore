@@ -8,3 +8,4 @@ examples/.ipynb_checkpoints/backtest_example-checkpoint.ipynb
 build/*
 cryptomipt.egg-info/*
 dist/*
+examples/.ipynb_checkpoints/portfolio stats-checkpoint.ipynb
