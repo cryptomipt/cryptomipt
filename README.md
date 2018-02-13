@@ -1,6 +1,6 @@
-# Environment
-This package is designed to interact with the [data server](https://github.com/cryptomipt/collector) test strategies an historical data, easily deploy strategies to production. By default our data server is used but you can deploy your own data collector and specify the address where needed. It includes exchange emulator, backtest and template trader class.
-
+# Cryptomipt
+This package is designed to interact with the [data server](https://github.com/cryptomipt/collector) test strategies on historical data, easily deploy strategies to production and monitor your portfolio. It includes exchange emulator, backtest, template trader class and [portfolio management tools](https://github.com/cryptomipt/statstools).
+By default our data server is used but you can deploy your own data collector and specify the address where needed.
 Pull Requests welcome and encouraged.
 
 Examples are available in examples folder.
